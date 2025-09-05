@@ -1,1 +1,1 @@
-WILL BE UPDATED
+API simples com conexão ao site [IP2C.co](https://about.ip2c.org/#about). Nesta API possuimos 3 endpoints principais, um para acessar infomações do pais em que aquele IP faz parte, outro é para realizar um update na base de dados caso as informações do IP sejam atualizada e por fim um endpoint onde retorna um report da base de dados.
